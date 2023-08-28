@@ -1,0 +1,12 @@
+run:
+Enter marks for 5 subjects:
+Subject 1: 78
+Subject 2: 90
+Subject 3: 89
+Subject 4: 90
+Subject 5: 90
+Total Marks: 437
+Average Marks: 87.4
+Grade: A+
+Grade Points: 9
+BUILD SUCCESSFUL (total time: 32 seconds)
